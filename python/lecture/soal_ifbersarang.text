@@ -1,0 +1,18 @@
+sewa mobil
+
+inputan
+tipe mobil
+lama sewa
+
+kd          tipe
+tr          truk
+cc          city car
+mobil       mobil box
+
+
+harga sewa
+
+tipe        harga/jam
+truk        50.000
+city car    100.000
+mobil box   80.000

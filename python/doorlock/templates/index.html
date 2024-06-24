@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css" integrity="sha384-9aIt2nRpC12Uk9gS9baDl411NQApFmC26EwAOH8WgZl5MYYxFfc+NcPb1dKGj7Sk" crossorigin="anonymous">
+    <title>Controlling Relay Switch with Raspberry Pi and Django</title>
+    <style>
+        body {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            min-height: 100vh;
+        }
+    </style>
+</head>
+<body>
+    <div>
+        <h1>Controlling Relay Switch with Raspberry Pi and Django</h1>
+        <p>Click the button below to control the relay switch:</p>
+        <form method="post">
+          {% csrf_token %}
+          <button type="submit" name="action" value="lock" class="btn btn-primary">Lock</button>
+          <button type="submit" name="action" value="unlock" class="btn btn-primary">Unlock</button>
+        </form>
+        {% if status %}
+          <p>Status: {{ status }}</p>
+        {% endif %}
+    </div>
+</body>
+</html>

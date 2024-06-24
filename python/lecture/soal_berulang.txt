@@ -1,0 +1,10 @@
+list data [romi,rohman,rezky,fikri,irfan,]
+
+table data siswa
+
+tampilkan dengan urutan nomor dibelakagnnya
+1.romi
+2.--
+----
+---
+---

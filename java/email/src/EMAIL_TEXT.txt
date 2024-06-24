@@ -1,0 +1,20 @@
+<p>Dear Pelanggan,</p>
+<p>Sekarang kita sudah berada di penghujung tahun, dan sebentar lagi Anda harus menjalankan Proses Akhir Tahun di sistem ND6. Berikut kami lampirkan langkah – langkah yang harus Anda lakukan. </p>
+<p>Terima kasih dan semoga Proses Akhir Tahun Anda berjalan dengan lancar. Apabila ada pertanyaan silahkan menghubungi kami. </p>
+
+<p>Hormat Kami,</p>
+<p>
+    <strong>
+        <span style='font-size:22.0pt;font-family:"Banda Regular";color:#404040;'>nex</span>
+        <span style='font-size:22.0pt;font-family:"Aller Display";color:#CD4029;'>SOFT</span>
+    </strong>
+</p>
+    <p>
+        PT. Paramadaksa Teknologi Nusantara <br>Scientia Business Park Tower 2 Lt.2 <br>Boulevard Gading Serpong <br>Tangerang 15810, Banten &ndash; Indonesia
+        <br>
+        www.nexsoft.co.id
+        <br>
+    <strong>
+        <span style='font-size:13px;font-family:"Cambria",serif;'>Hotline : (021 2222 0138)/(021 2222 0139)</span>
+    </strong>
+</p>
